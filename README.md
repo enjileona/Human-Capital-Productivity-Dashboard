@@ -8,4 +8,4 @@ Human Capital Productivity Dashboard analyzes the relationship between workforce
 
 ## Live Dashboard
 
-🔗 [Open Interactive Dashboard](https://enjileona.github.io/Human-Capitan-Productivity-Dashboard/)
+🔗 [Open Interactive Dashboard](https://enjileona.github.io/Human-Capital-Productivity-Dashboard/)
